@@ -28,9 +28,11 @@ src="https://cdn.discordapp.com/attachments/936489798795935857/10055292691638067
 
 <div>
   <a href="https://www.instagram.com/lobinhojbl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://codepen.io/joaobarcellos" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
   <a href="AindaVaiTe" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
   <a href="mailto:joaobarc4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-b-correa-56521a233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://myanimelist.net/profile/Legonnexon" target="_blank"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"></a>
   
   ![Snake animation](https://github.com/legonnexon/legonnexon/blob/output/github-contribution-grid-snake.svg)
   
