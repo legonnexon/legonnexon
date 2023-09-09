@@ -1,10 +1,8 @@
-## 👋 Olá, meu nome é João Pedro, programador Front-End e Sistemas.
+## 👋 Olá, meu nome é João Pedro.
 
-- 👀 Eu faço jogos, sites e aplicativos.
+- 👀 Eu faço jogos, sites(fullstack) e aplicativos.
 - 📚 Em processo de desenvolvimento.
-- 💻 Venho dessenvolvendo alguns projetos interessantes, mesmo com um computador ruim 😥.
-
-Sou Full-Stack, pensando em aprende Power BI.
+- 💻 Venho me testando com coisas novas.
 
 <div align="center">
   <a href="https://github.com/legonnexon">
