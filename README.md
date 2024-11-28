@@ -33,14 +33,14 @@ Tenho 20y tentando virar **FullStack**, por enquanto so **FontEnd** mesmo, gosta
 -  Ver vídeos sobre tecnologias ( ou engraçados ) 💻
 
 
-# What i've developed with
+# Oque eu venho treinando
 
-Techologies i've used in my development career, either by courses, projects, or working at Allinsys.
+Tecnologias que venho usando ao longo de projetos e cursos.
 
 <table width="100%">
    <thead>
       <th width="250">Area</th>
-      <th width="750px">Techologies</th>
+      <th width="750px">Tecnologia</th>
    </thead>
    <tbody>
       <tr>
