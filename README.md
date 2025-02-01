@@ -1,9 +1,5 @@
 <div>
     <img
-      width="100%" 
-      alt="Joao personal banner"
-      src=https://i.imgur.com/xsSxWhr.png"
-   />
     <img
       width="56.5%" 
       alt="Petri Github stats"
