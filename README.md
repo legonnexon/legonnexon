@@ -1,10 +1,5 @@
 <div>
-    <img
-    <img
-      width="56.5%" 
-      alt="Petri Github stats"
-      src="https://github-readme-stats.vercel.app/api?username=legonnexon&show_icons=true&theme=dark&hide_border=true&border_radius=12&bg_color=000000&ring_color=79ff97"
-   />
+    <!-- .slide: data-background-color="white" -->
    <img
       width="42.5%"
       alt="Petri most used languages"
