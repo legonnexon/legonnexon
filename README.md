@@ -11,7 +11,7 @@
 
 # Sobre Mim
 
-Tenho 20y tentando virar **FullStack**, por enquanto so **FontEnd** mesmo, gostando de criar projetos novos. Gastando todo meu tempo com estudos to gostando de aprende **IA** e **Rust**, fazendo faculdade de **Analise e Desenvovlimento de Sistemas** no Senac.
+Tenho 21y tentando virar **FullStack**, por enquanto so **FontEnd** mesmo, gostando de criar projetos novos. Gostando de aprende **IA** e **C#** para criação em **Unity3D**, fazendo faculdade de **Analise e Desenvovlimento de Sistemas** no Senac.
 
 <br />
 
@@ -21,7 +21,7 @@ Tenho 20y tentando virar **FullStack**, por enquanto so **FontEnd** mesmo, gosta
 -  Assistir animes 📺
 -  Escutar músicas indies/pop 🎧
 -  Jogos de ação/indie 🎮
--  Ver vídeos sobre tecnologias ( ou engraçados ) 💻
+-  Assistir podcast ( Debyte ) 💻
 
 
 # Oque eu venho treinando
@@ -50,6 +50,7 @@ Tecnologias que venho usando ao longo de projetos e cursos.
          <td>
             <img alt="Node.js" title="Node.js" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
             <img alt="Python" title="Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+            <img alt="C Sharp" title="C Sharp" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
          </td>
       </tr>
       <tr>
@@ -65,6 +66,7 @@ Tecnologias que venho usando ao longo de projetos e cursos.
             <img alt="Git" title="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
             <img alt="Vite" title="Vite" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
             <img alt="Figma" title="Figma" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+            <img alt="Unity 3D" title="Unity 3D" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
          </td>
       </tr>
    </tbody>
@@ -75,7 +77,6 @@ Tecnologias que venho usando ao longo de projetos e cursos.
 <div>
   <a href="https://www.instagram.com/lobinhojbl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://codepen.io/joaobarcellos" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-  <a href="https://discord.gg/FVyytsweRd" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
   <a href="mailto:joaobarc4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-barcellos-56521a233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
