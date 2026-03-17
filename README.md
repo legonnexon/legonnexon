@@ -11,12 +11,12 @@
 
 # Sobre Mim
 
-Tenho 21y tentando virar **FullStack**, por enquanto so **FontEnd** mesmo, gostando de criar projetos novos. Aprendendo **back-end** com **php**, **node** e **sql**, gosto de criação de usando **Unity3D** ou 2d usando **Godot**, fazendo faculdade de **Analise e Desenvovlimento de Sistemas**.
+Tenho 21y tentando virar **full-stack**, por enquanto so **font-end** mesmo, gostando de criar projetos novos. Aprendendo tudo que na faculdade e por fora como criação web, servidores, gerenciamento de projetos, CRUD e outros muitas coisas. Gosto de criação de jogos usando **Unity** ou 2d usando **Godot**, fazendo faculdade de **Analise e Desenvovlimento de Sistemas**.
 
 <br />
 
 # Coisas que gosto
--  Gosto de ler mangá / anime 📖
+-  Gosto de mangá / anime 📖
 -  Assistir seriados (the office) 📺
 -  Escutar músicas 🎧
 -  Jogos de ação/indie 🎮
