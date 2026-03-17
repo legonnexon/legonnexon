@@ -11,7 +11,7 @@
 
 # Sobre Mim
 
-Tenho 21y tentando virar **full-stack**, por enquanto so **font-end** mesmo, gostando de criar projetos novos. Aprendendo tudo que na faculdade e por fora como criação web, servidores, gerenciamento de projetos, CRUD e outros muitas coisas. Gosto de criação de jogos usando **Unity** ou 2d usando **Godot**, fazendo faculdade de **Analise e Desenvovlimento de Sistemas**.
+Tenho 21y tentando virar **full-stack**, por enquanto so **font-end** mesmo, gostando de criar projetos novos. Aprendendo tudo que da na faculdade e por fora como criação web, servidores, gerenciamento de projetos, CRUD e outras muitas coisas. Gosto de criação de jogos usando **Unity** ou 2d usando **Godot**, fazendo faculdade de **Analise e Desenvovlimento de Sistemas**.
 
 <br />
 
