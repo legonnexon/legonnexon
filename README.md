@@ -11,17 +11,16 @@
 
 # Sobre Mim
 
-Tenho 21y tentando virar **FullStack**, por enquanto so **FontEnd** mesmo, gostando de criar projetos novos. Gostando de aprende **IA** e **C#** para criação em **Unity3D**, fazendo faculdade de **Analise e Desenvovlimento de Sistemas** no Senac.
+Tenho 21y tentando virar **FullStack**, por enquanto so **FontEnd** mesmo, gostando de criar projetos novos. Aprendendo **back-end** com **php**, **node** e **sql**, gosto de criação de usando **Unity3D** ou 2d usando **Godot**, fazendo faculdade de **Analise e Desenvovlimento de Sistemas**.
 
 <br />
 
 # Coisas que gosto
--  Gosto de ler mangá 📖
--  Ler livros recomendados 📚
--  Assistir animes 📺
--  Escutar músicas indies/pop 🎧
+-  Gosto de ler mangá / anime 📖
+-  Assistir seriados (the office) 📺
+-  Escutar músicas 🎧
 -  Jogos de ação/indie 🎮
--  Assistir podcast ( Debyte ) 💻
+-  Assistir podcast ( **Debyte** apenas ) 💻
 
 
 # Oque eu venho treinando
